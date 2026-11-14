@@ -1,0 +1,31 @@
+{
+  "name": "my-mvp-project",
+  "version": "1.0.0",
+  "description": "\"# my-mvp-project\"",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinbleile-dev/my-mvp-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/colinbleile-dev/my-mvp-project/issues"
+  },
+  "homepage": "https://github.com/colinbleile-dev/my-mvp-project#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
